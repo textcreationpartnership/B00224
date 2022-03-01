@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two pleasant ditties, one of the birth, the other of the passion of Christ. To the tune of Dulcina. Of Natiuity.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1628-1629?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00224</idno>
+            <idno type="STC">STC 14577</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[394]</idno>
+            <idno type="EEBO-CITATION">99892155</idno>
+            <idno type="PROQUEST">ocm99892155</idno>
+            <idno type="VID">183125</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00224)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183125)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[209])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two pleasant ditties, one of the birth, the other of the passion of Christ. To the tune of Dulcina. Of Natiuity.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assignes of Thomas Symcocke,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>[1628 or 9]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Iury came to Ieru-salem ..."</note>
+                  <note>Date of publication suggested by STC.</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Nativity --  Early works to 1800.</term>
+               <term>Jesus Christ --  Passion --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="394" facs="tcp:183125:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>Two pleaſant Ditties, one of the Birth, the other of the Paſſion of Chriſt.</head>
+            <opener>To the tune of Dulcina. Of Natiuity.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>
+                     <hi>IVry</hi> came to <hi>Ieru-ſalem,</hi>
+                  </l>
+                  <l>(all the world was taxed then)</l>
+                  <l>Bleſſed <hi>Mary</hi> brought to <hi>Bethelem,</hi>
+                  </l>
+                  <l>more then all the world agen:</l>
+                  <l>A gift ſo bleſt,</l>
+                  <l>So good, the beſt</l>
+                  <l>that ere was ſeene, was heard or done,</l>
+                  <l>A King, a Chriſt,</l>
+                  <l>Prophet, and Prieſt:</l>
+                  <lg type="refrain">
+                     <l>a Ieſus, God, a Man, a Sonne.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Happie night, a day was neuer,</l>
+                  <l>halfe ſo happie ſweet and faire:</l>
+                  <l>Singing Soldiers (bleſſed euer)</l>
+                  <l>fill the skie with ſweeteſt ayre.</l>
+                  <l>Amaz'd men feare,</l>
+                  <l>They ſee, they heare.</l>
+                  <l>yet doubt and aske how this was done:</l>
+                  <l>T'was bid, be bold,</l>
+                  <l>It was fore told,</l>
+                  <lg type="refrain">
+                     <l>this night hath God himſelfe a Son,</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>There appeares a golden Vſher,</l>
+                  <l>Kings attending in their traine:</l>
+                  <l>The bright Sun could not out bluſh her,</l>
+                  <l>ſuch a Star ner'e ſhone againe.</l>
+                  <l>See now it ſtaies,</l>
+                  <l>Seeming it ſayes,</l>
+                  <l>Goe in and ſee, what there is done,</l>
+                  <l>A Child whoſe birth,</l>
+                  <l>Leagues heauen and earth,</l>
+                  <lg type="refrain">
+                     <l>Ieſus to vs, to God a Sonne.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Subtill <hi>Herod</hi> ſought to find him,</l>
+                  <l>with a purpoſe blacke as hell:</l>
+                  <l>But a greater power confin<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d him,</l>
+                  <l>and his purpoſe did repell:</l>
+                  <l>Who ſhould betray,</l>
+                  <l>Doe al obey,</l>
+                  <l>as fitting was it ſhould be done:</l>
+                  <l>They al adore,</l>
+                  <l>And kneele before,</l>
+                  <lg type="refrain">
+                     <l>this God and Man, to God a Sonne.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>'Twas vpon a Commets blazing,</l>
+                  <l>
+                     <hi>Cuma</hi> to <hi>Auguſtus</hi> ſaid,</l>
+                  <l>This fore-ſhewes an act amazing:</l>
+                  <l>for a Mother ſtill a maid,</l>
+                  <l>A Babe ſhall beare,</l>
+                  <l>That al muſt feare,</l>
+                  <l>and ſuddenly it muſt be done:</l>
+                  <l>Nay <hi>Caeſar</hi> thou,</l>
+                  <l>To him muſt bow,</l>
+                  <lg type="refrain">
+                     <l>hee's God, a Man, to God a Sonne.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Is not this a bleſſed wonder,</l>
+                  <l>God is Man, and Man is God:</l>
+                  <l>Fooliſh Iewes miſtooke the thunder,</l>
+                  <l>ſhould proclaime this King abroad.</l>
+                  <l>Angels they ſing,</l>
+                  <l>Behold the King,</l>
+                  <l>in <hi>Bethelem</hi> where this was done:</l>
+                  <l>Then we as they,</l>
+                  <l>Reioyce and ſay,</l>
+                  <lg type="refrain">
+                     <l>We haue a Sauiour, God a Sonne.</l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="395" facs="tcp:183125:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 8 -->
+               <head>The ſecond part.</head>
+               <opener>To the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>TVrne your eyes that are affixed</l>
+                  <l>on this worlds deceuing things:</l>
+                  <l>And with ioyes and ſorrowes mixed,</l>
+                  <l>looke vpon the King of Kings,</l>
+                  <l>Who let his throwne:</l>
+                  <l>With ioyes vnknowne:</l>
+                  <l>tooke fleſh like ours, like vs drew breath</l>
+                  <l>For vs to die,</l>
+                  <l>Heere fixe our eye,</l>
+                  <lg type="refrain">
+                     <l>and thinke vpon his precious death.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>See him in the garden praying,</l>
+                  <l>while his ſad Diſciples ſlept:</l>
+                  <l>See him in the Garden ſweating</l>
+                  <l>drops of blood and how he wept:</l>
+                  <l>As man he was,</l>
+                  <l>He wept (alas)</l>
+                  <l>and trembling feare to looſe his breath,</l>
+                  <l>Yet to heauens will,</l>
+                  <l>He yeelded ſtill:</l>
+                  <lg type="refrain">
+                     <l>then thinke vpon his precious death.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>See him by the Souldiers taken,</l>
+                  <l>when with <hi>Aue</hi> and a kiſſe:</l>
+                  <l>He that Heauen had quite forſaken,</l>
+                  <l>had betrayd him and with this,</l>
+                  <l>Behold him (bound</l>
+                  <l>And garded round)</l>
+                  <l>to <hi>Caiphas</hi> borne to looſe his breath,</l>
+                  <l>There ſee the Iewes</l>
+                  <l>Heauens King abuſe:</l>
+                  <lg type="refrain">
+                     <l>O thinke vpon his precious death.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>See him in the hands of <hi>Pilat,</hi>
+                  </l>
+                  <l>like a baſe offender ſtript:</l>
+                  <l>See the moane, and teares they ſmile at,</l>
+                  <l>while they ſee our Sauiour whipt.</l>
+                  <l>Behold him bleed,</l>
+                  <l>His purple weede</l>
+                  <l>record, while you haue life and breath,</l>
+                  <l>His taunts and ſcornes,</l>
+                  <l>His Crowne of thornes,</l>
+                  <lg type="refrain">
+                     <l>or thinke vpon his precious death.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>See him in the howre of parting,</l>
+                  <l>hanging on his bloody Croſſe:</l>
+                  <l>See his wounds, conceiue his ſmarting,</l>
+                  <l>and our gaine, by his liues loſſe.</l>
+                  <l>On either ſide</l>
+                  <l>A Fellow died,</l>
+                  <l>the one derides him leauing breath:</l>
+                  <l>The other prayes,</l>
+                  <l>And humbly ſaies:</l>
+                  <lg type="refrain">
+                     <l>O ſaue me by thy precious death.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>See as in theſe pangs he thirſted,</l>
+                  <l>and that heat to coole did call,</l>
+                  <l>How theſe Iewes (like <hi>Iudas</hi> curſed)</l>
+                  <l>bring him vinegar and gall,</l>
+                  <l>His ſpirit then,</l>
+                  <l>To Heauen agen,</l>
+                  <l>commending with his lateſt breath,</l>
+                  <l>The world he leaues,</l>
+                  <l>That man deceaues:</l>
+                  <lg type="refrain">
+                     <l>O thinke vpon his precious death.</l>
+                  </lg>
+               </lg>
+            </div>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by the Aſſignes of Thomas Symcocke.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
